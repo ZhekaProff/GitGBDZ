@@ -6,7 +6,7 @@
 3. Подключите свой проект к этому удалённому репозиторию и отправьте в него код этого проекта. Самостоятельно разрешите конфликты и проблемы, если они возникнут при выполнении данного задания
    ![Задание](scrin/3.png)
     команды:
-   git fetch
-   git merge origin/main --allow-unrelated-histories
-   git push --set-upstream origin main
+   - git fetch
+   - git merge origin/main --allow-unrelated-histories
+   - git push --set-upstream origin main
 
